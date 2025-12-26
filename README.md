@@ -20,12 +20,6 @@ My primary research interest is in **Agent Development**, exploring:
 - **Financial AI Agents**: Creating intelligent financial assistants that combine LLM capabilities with real-time market data
 - **Agent Frameworks**: Designing reusable frameworks and tools for rapid agent development
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YUHAI0&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUHAI0&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 - **Email**: me.yuhai@hotmail.com
